@@ -8,6 +8,7 @@ A única biblioteca utilizada foi a pygame, que é responsavel APENAS para a par
 
 Ao pressionar ENTER o computador realiza as jogadas automaticamente<br>
 Há aleatoriedade envolvida, para evitar que toda partida seja igual.<br>
+As peças podem se tornas damas<br>
 As peças podem realizar capturas sequênciais.
 
 
